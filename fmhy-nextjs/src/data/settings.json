@@ -1,0 +1,18 @@
+{
+  "siteSettings": {
+    "siteName": "FMHY Clone",
+    "siteDescription": "인터넷에서 가장 큰 무료 콘텐츠 모음!",
+    "enableSearch": true,
+    "enableDarkMode": true,
+    "enableFilters": true
+  },
+  "design": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#10b981",
+    "backgroundColor": "#f9fafb",
+    "textColor": "#1f2937",
+    "cardsPerRow": 3,
+    "cardStyle": "rounded",
+    "showIcons": true
+  }
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "adblocking",
+    "title": "Adblocking / Privacy",
+    "description": "Learn how to block ads, trackers and other nasty things.",
+    "icon": "Shield",
+    "color": "#ffcccb",
+    "order": 1
+  },
+  {
+    "id": "ai",
+    "title": "Artificial Intelligence",
+    "description": "Explore the world of AI and machine learning.",
+    "icon": "Brain",
+    "color": "#d0f0c0",
+    "order": 2
+  },
+  {
+    "id": "streaming",
+    "title": "Streaming",
+    "description": "Stream, download, torrent and binge all your favourite movies and shows!",
+    "icon": "Film",
+    "color": "#d8bfd8",
+    "order": 3
+  },
+  {
+    "id": "listening",
+    "title": "Listening",
+    "description": "Stream, download and torrent songs, podcasts and more!",
+    "icon": "Music",
+    "color": "#ffdb58",
+    "order": 4
+  },
+  {
+    "id": "gaming",
+    "title": "Gaming",
+    "description": "Download and play all your favourite games or emulate some old but gold ones!",
+    "icon": "Gamepad",
+    "color": "#c8a2c8",
+    "order": 5
+  },
+  {
+    "id": "reading",
+    "title": "Reading",
+    "description": "Whether you're a bookworm, otaku or comic book fan, you'll be able to find your favourite pieces of literature here for free!",
+    "icon": "Book",
+    "color": "#b0e0e6",
+    "order": 6
+  },
+  {
+    "id": "downloading",
+    "title": "Downloading",
+    "description": "Download all your favourite software, movies, tv shows, music, games and more!",
+    "icon": "Download",
+    "color": "#ffb6c1",
+    "order": 7
+  },
+  {
+    "id": "torrenting",
+    "title": "Torrenting",
+    "description": "Download your favourite media using the BitTorrent protocol.",
+    "icon": "Share",
+    "color": "#e6e6fa",
+    "order": 8
+  },
+  {
+    "id": "educational",
+    "title": "Educational",
+    "description": "Educational content for all ages.",
+    "icon": "GraduationCap",
+    "color": "#f0e68c",
+    "order": 9
+  },
+  {
+    "id": "mobile",
+    "title": "Android / iOS",
+    "description": "All forms of content for Android and iOS.",
+    "icon": "Smartphone",
+    "color": "#98fb98",
+    "order": 10
+  },
+  {
+    "id": "linux-macos",
+    "title": "Linux / macOS",
+    "description": "The $HOME of Linux and macOS.",
+    "icon": "Terminal",
+    "color": "#add8e6",
+    "order": 11
+  },
+  {
+    "id": "non-english",
+    "title": "Non English",
+    "description": "Content in languages other than English.",
+    "icon": "Globe",
+    "color": "#ffa07a",
+    "order": 12
+  },
+  {
+    "id": "miscellaneous",
+    "title": "Miscellaneous",
+    "description": "Content too niche to be included elsewhere.",
+    "icon": "Package",
+    "color": "#f5deb3",
+    "order": 13
+  }
+]
